@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![Rank](https://make.fun/badge/best-game-01/mingnan513/diamond-bloom/rank.svg)](https://make.fun/bounty/best-game-01)
+[![Reward](https://make.fun/badge/best-game-01/mingnan513/diamond-bloom/reward.svg)](https://make.fun/bounty/best-game-01)
+
 # DIAMOND BLOOM — a baseball arcade
 
 An original, complete browser game built for the make.fun **"Make the best game"** bounty.
